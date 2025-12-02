@@ -13,7 +13,7 @@
                     <a href="?pg=about" class="nav-item nav-link a">Tentang NGOOPI</a>
                     <a href="?pg=service" class="nav-item nav-link">Pelayanan NGOOPI</a>
                     <a href="?pg=menu" class="nav-item nav-link">Menu NGOOPI</a>
-                    <a href="?pg=reservation" class="nav-item nav-link">Reservasi NGOOPI</a>
+                    <a href="?pg=pesan" class="nav-item nav-link">Reservasi NGOOPI</a>
                     <a href="?pg=testimonial" class="nav-item nav-link">Testimoni NGOOPI</a>
                 </div>
             </div>

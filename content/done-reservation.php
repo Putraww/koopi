@@ -10,6 +10,6 @@
         </div>
     </div>
     <div align="center">
-        <li class="list-group-item"><a href="?pg=reservation">Booking Kembali</a></li>
+        <li class="list-group-item"><a href="?pg=pesan">Booking Kembali</a></li>
     </div>
 </div>
